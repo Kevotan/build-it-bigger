@@ -5,6 +5,10 @@ a Google Cloud Endpoints(GCE) project that serves those jokes, an Android Librar
 containing anactivity for displaying jokes, and an Android app that fetches jokes 
 from the GCE module and passes them to the Android Library for display.
 
+<p float="left">
+  <img src ="https://github.com/Kevotan/build-it-bigger/blob/master/screenshot-telljoke.jpg" width="300">
+  <img src ="https://github.com/Kevotan/build-it-bigger/blob/master/screenshot-joke.jpg" width="300">
+</p>
 
 ## Overview
 
